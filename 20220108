@@ -1,0 +1,81 @@
+# a="hobby"
+# print(a.count('b'))
+# b= "python is the vest choice"
+# print(b.find('b'))
+# c= "lige is too short"
+# print(c.index('t'))
+# print(",".join('abcd'))
+# d= "hi"
+# print(d.upper())
+# e= "HI"
+# print(e.lower())
+# f= "hi"
+# print(f)
+# print(f.rstrip())
+# g= "hi"
+# print(g.lstrip())
+# h= "hi"
+# print(h.strip())
+# i= "life is too short"
+# print(i.replace("life", "your lef"))
+# j= "life is too short"
+# print(j.split())
+# k= "a:b:c:d"
+# print(k.split(":"))
+# m= "btc_krw"
+# print(m.upper())
+# print(m.split("_"))
+# data="039490"
+# print(data.rstrip())
+# print(data.rstrip())
+# a= int(input())
+# b= int(input())
+# if a > b:
+#     print("a는 b보다 크다")
+# and (조건인 도두 참일 때 참이 된다.)
+# a = 6
+# b = 4
+# if a%2==0 and b%2==0:
+#     pint("a와 b는 짝수다.")
+# or (조건 중 하나만 참이면 참이 된다.)
+# not (조건이 거짓이면 참이다.)
+
+# a=int(input())
+# b=int(input())
+# if (a + b > 8):
+#     pass(아무것도 안나온다.)
+#     print("a와 b의 합은 8보다 크다.")
+# if a>b:
+#     print("a는 b보다 크다")
+# else:
+#     print("a는 b보다 작거나 같다.")
+# 돈이 5000원 이있으면 택시를 타고,
+# 5000원은 없지만 1000원이 있으면 버스를 타고,
+# 5000원도 없고 1000원도 없으면 걸어가라
+# money= int(input())
+# if money== 5000:
+#     print("taxi")
+# elif money ==1000:
+#     print("bus")
+# else:
+#     print(walk)
+
+x=int(input())
+y=int(input())
+if x>y:
+    print(">")
+elif x<y:
+    print("<")
+elif x == y:
+    print("=")
+a = int(input())
+if 101>a>89
+    print("A")
+elif 90>a>79
+    print("B")
+elif 78 > a > 69
+    print("C")
+elif 68 > a > 59
+    print("D")
+else 58 > a > -1
+    print("D")
